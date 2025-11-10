@@ -1,3 +1,5 @@
+#11) Create a python program to manage marks of the students of the school examination using mysql. 
+
 import mysql.connector
 
 # connect to database
